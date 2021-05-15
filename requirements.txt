@@ -16,7 +16,7 @@ Jinja2
 MarkupSafe
 oauth2client
 oauthlib
-pkg-resources
+pkg-resources==0.0.0
 pyasn1
 pyasn1-modules
 pyparsing
