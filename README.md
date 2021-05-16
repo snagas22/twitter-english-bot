@@ -55,4 +55,4 @@ while True:
 
 Here's an example of what an automatically-generated tweet will look like:
 
-![sample tweet](./images/sample_tweet.png "Sample Tweet")
+![sample tweet](../images/sample_tweet.png "Sample Tweet")
