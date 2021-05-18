@@ -5,7 +5,7 @@ from sheet import Sheet_Controller
 
 
 def main():
-    interval = 60 * 60 * 24
+    interval = 60 * 60 * 8
 
     # opening up the google sheet
     sheet = Sheet_Controller()
